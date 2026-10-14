@@ -30,9 +30,9 @@ import java.text.NumberFormat
 import java.time.LocalDate
 import java.util.Locale
 
-private val Purple = Color(0xFF5145E5)
-private val Pale = Color(0xFFEEEDFF)
-private val Green = Color(0xFF16845B)
+private val Purple = Color(0xFF087F5B)
+private val Pale = Color(0xFFE2F6EE)
+private val Green = Color(0xFF087F5B)
 private val Red = Color(0xFFD34B55)
 
 data class MoneyTx(

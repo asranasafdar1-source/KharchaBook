@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.KharchaBook" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#5145E5</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#F5F6FC</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>
